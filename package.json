@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "yasmij": "^0.2.6"
+  },
+  "scripts": {
+    "build": "npm install",
+    "start": "node script.js"
   }
 }
